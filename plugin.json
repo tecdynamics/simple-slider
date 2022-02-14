@@ -1,0 +1,9 @@
+{
+  "name": "Simple Slider",
+  "namespace": "Tec\\SimpleSlider\\",
+  "provider": "Tec\\SimpleSlider\\Providers\\SimpleSliderServiceProvider",
+  "author": "Tec - Dynamics LTD",
+  "url": "https://tecdynamics.co.uk",
+  "version": "5.8",
+  "description": "A plugin to create sliders"
+}
